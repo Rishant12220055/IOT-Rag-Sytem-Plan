@@ -2,11 +2,7 @@
 
 A comprehensive Retrieval-Augmented Generation (RAG) system that processes IoT sensor data, maintenance manuals, and building specifications to provide predictive maintenance insights and operational optimization for smart buildings.
 
-## � Live Demo
-
-**🚀 Try the live application**: https://huggingface.co/spaces/dadman43/iot-sensor-rag-system
-
-## �🏢 Features
+## 🏢 Features
 
 - **Real-time IoT Sensor Data Processing**: Ingests and processes sensor data from HVAC, electrical, and security systems
 - **Document Integration**: Processes maintenance manuals and building specifications
