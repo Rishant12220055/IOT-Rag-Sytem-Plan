@@ -1,6 +1,11 @@
 # IoT Sensor Data RAG for Smart Buildings
+### 📈 Analytics Dashboard
+![Analytics](screenshots/analytics.png)
+*Advanced analytics with sensor correlations and trend analysis*
 
-A comprehensive Retrieval-Augmented Generation (RAG) system that processes IoT sensor data, maintenance manuals, and building specifications to provide predictive maintenance insights and operational optimization for smart buildings.
+> **🌐 Live Demo**: Experience all these features live at [https://huggingface.co/spaces/dadman43/iot-sensor-rag-system](https://huggingface.co/spaces/dadman43/iot-sensor-rag-system)
+
+## 🚀 Quick Startomprehensive Retrieval-Augmented Generation (RAG) system that processes IoT sensor data, maintenance manuals, and building specifications to provide predictive maintenance insights and operational optimization for smart buildings.
 
 ## 🏢 Features
 
@@ -19,7 +24,33 @@ A comprehensive Retrieval-Augmented Generation (RAG) system that processes IoT s
 - **ML Models**: Scikit-learn for anomaly detection and predictive maintenance
 - **Data Processing**: Pandas and NumPy for sensor data analysis
 
-## 🚀 Quick Start
+## � Screenshots
+
+### 🏠 Main Dashboard
+![Main Dashboard](screenshots/main_dashboard.png)
+*Real-time IoT sensor monitoring with interactive charts and system overview*
+
+### 📊 Real-time Sensor Data
+![Sensor Dashboard](screenshots/sensor_dashboard.png)
+*Live sensor readings from HVAC, electrical, and security systems across building zones*
+
+### 🚨 Anomaly Detection
+![Anomaly Detection](screenshots/anomaly_detection.png)
+*Real-time anomaly detection with alerts and detailed sensor analysis*
+
+### 🔧 Predictive Maintenance
+![Predictive Maintenance](screenshots/predictive_maintenance.png)
+*ML-powered maintenance recommendations and equipment health monitoring*
+
+### 🤖 RAG Q&A System
+![RAG QA System](screenshots/rag_qa.png)
+*Intelligent question-answering with context-aware responses from maintenance manuals*
+
+### 📈 Analytics Dashboard
+![Analytics](screenshots/analytics.png)
+*Advanced analytics with sensor correlations and trend analysis*
+
+## �🚀 Quick Start
 
 ### Prerequisites
 
