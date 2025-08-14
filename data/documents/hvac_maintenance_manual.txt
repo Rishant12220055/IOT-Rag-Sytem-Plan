@@ -1,0 +1,49 @@
+HVAC SYSTEM MAINTENANCE MANUAL
+
+OVERVIEW
+This manual covers maintenance procedures for heating, ventilation, and air conditioning systems in smart buildings.
+
+MONTHLY MAINTENANCE TASKS
+1. Replace air filters if dirty or clogged
+2. Check thermostat calibration and settings
+3. Inspect belts for wear and proper tension
+4. Clean condenser and evaporator coils
+5. Check refrigerant levels and look for leaks
+6. Verify proper operation of dampers and controls
+
+QUARTERLY MAINTENANCE TASKS
+1. Lubricate all motor bearings and moving parts
+2. Inspect and tighten electrical connections
+3. Test all safety controls and alarm systems
+4. Check ductwork for leaks and obstructions
+5. Calibrate temperature and humidity sensors
+6. Verify proper ventilation rates and air quality
+
+ANNUAL MAINTENANCE TASKS
+1. Complete comprehensive system performance analysis
+2. Replace worn belts, bearings, and other components
+3. Clean entire ductwork system and air handling units
+4. Test emergency shutdown and safety procedures
+5. Update system documentation and maintenance records
+
+TROUBLESHOOTING GUIDE
+High Energy Consumption:
+- Check for dirty or clogged filters
+- Verify proper building insulation
+- Inspect ductwork for leaks
+- Check thermostat settings and schedules
+- Analyze compressor performance and efficiency
+
+Poor Indoor Air Quality:
+- Replace air filters immediately
+- Check ventilation rates and outside air intake
+- Inspect for mold, contamination, or odors
+- Verify CO2 sensor calibration
+- Clean air handling units and ductwork
+
+Temperature Control Issues:
+- Calibrate temperature sensors and thermostats
+- Check damper operation and positioning
+- Verify control system settings and schedules
+- Inspect heating and cooling coils
+- Test zone control valves and actuators
