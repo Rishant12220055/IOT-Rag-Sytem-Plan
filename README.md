@@ -1,11 +1,16 @@
-# IoT Sensor Data RAG for Smart Buildings
+# IoT Sensor Data RAG for- **Data Processing**: Pandas and NumPy for sensor data analysis
+
+## 📸 Screenshots
+
+### 🏠 Main Dashboardt Buildings
+
 ### 📈 Analytics Dashboard
 ![Analytics](screenshots/analytics.png)
 *Advanced analytics with sensor correlations and trend analysis*
 
-> **🌐 Live Demo**: Experience all these features live at [https://huggingface.co/spaces/dadman43/iot-sensor-rag-system](https://huggingface.co/spaces/dadman43/iot-sensor-rag-system)
+## 🚀 Quick Start Live Demo**: Experience all these features live at [https://huggingface.co/spaces/dadman43/iot-sensor-rag-system](https://huggingface.co/spaces/dadman43/iot-sensor-rag-system)
 
-## 🚀 Quick Startomprehensive Retrieval-Augmented Generation (RAG) system that processes IoT sensor data, maintenance manuals, and building specifications to provide predictive maintenance insights and operational optimization for smart buildings.
+A comprehensive Retrieval-Augmented Generation (RAG) system that processes IoT sensor data, maintenance manuals, and building specifications to provide predictive maintenance insights and operational optimization for smart buildings.
 
 ## 🏢 Features
 
