@@ -30,8 +30,8 @@ A comprehensive Retrieval-Augmented Generation (RAG) system that processes IoT s
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd iot-sensor-rag
+git clone https://github.com/Rishant12220055/IOT-Rag-Sytem-Plan.git
+cd IOT-Rag-Sytem-Plan
 ```
 
 2. Install dependencies:
