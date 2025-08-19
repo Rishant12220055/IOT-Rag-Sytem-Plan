@@ -198,5 +198,5 @@ For questions and support, please create an issue in the GitHub repository.
 
 ---
 
-**Live Demo**: [Your Deployed App URL]
-**GitHub Repository**: [Your GitHub Repo URL]
+**Live Demo**: https://huggingface.co/spaces/dadman43/iot-sensor-rag-system
+**GitHub Repository**: https://huggingface.co/spaces/dadman43/iot-sensor-rag-system
